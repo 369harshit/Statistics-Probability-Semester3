@@ -1,2 +1,2 @@
-# Statistics-Semester3
+# Statistics&Probability-Semester3
 Notes
